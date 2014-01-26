@@ -4,12 +4,9 @@
 [submodule "vim/bundle/ack"]
 	path = vim/bundle/ack
 	url = git://github.com/mileszs/ack.vim.git
-[submodule "vim/bundle/markdown"]
-	path = vim/bundle/markdown
-	url = git://github.com/tpope/vim-markdown.git
 [submodule "vim/bundle/gitv"]
 	path = vim/bundle/gitv
-	url = git://github.com/gregsexton/gitv.git
+	url = git://github.com/tpope/vim-markdown.git
 [submodule "vim/bundle/php-namespace"]
 	path = vim/bundle/php-namespace
 	url = git://github.com/arnaud-lb/vim-php-namespace.git
@@ -36,7 +33,7 @@
 	url = git://github.com/kien/ctrlp.vim.git
 [submodule "vim/bundle/puppet"]
 	path = vim/bundle/puppet
-    url = git://github.com/nvogel/vim-puppet.git
+	url = git://github.com/nvogel/vim-puppet.git
 [submodule "vim/bundle/solarized"]
 	path = vim/bundle/solarized
 	url = git://github.com/altercation/vim-colors-solarized.git
