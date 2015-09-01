@@ -12,6 +12,7 @@ Checkout repository:
 
 ```sh
 $ git clone https://github.com/lesmyrmidons/vim-config.git ~/.vim-config
+$ cd ~/.vim-config && git submodule update --init
 ```
 
 Create symlink:
